@@ -1,7 +1,7 @@
 <h1>Hi, I'm Dustin! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://https://www.linkedin.com/in/dustinirvin/">Cybersecurity Professional</a>, <a //href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-
+<!--
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
@@ -17,9 +17,7 @@
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-
-
-
+ --!>
 
 
 <h2> 🤳 Connect with me:</h2>
